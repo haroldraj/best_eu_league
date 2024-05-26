@@ -409,4 +409,3 @@ print("Y pred mean:", y_pred.mean())
 
 This project successfully demonstrates how to predict the ranking of football leagues using team statistics. The process involves data scraping, preprocessing, feature engineering, model training, and evaluation. The Random Forest Regressor model was used, and hyperparameter tuning was performed to optimize the model's performance.
 
-```
