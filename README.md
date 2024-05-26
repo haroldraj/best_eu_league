@@ -1,11 +1,12 @@
 # Best EU LEAGUE
 # Football League Ranking Prediction
-# Contributors
-  - Loïque Darios
-  - Harold Rajaonarison
 
 This project aims to predict the ranking of football leagues (such as Premier League, Bundesliga, Serie A, and Ligue 1) using various team statistics. The following steps outline the data preprocessing, model training, hyperparameter tuning, and evaluation process.
 We only have 4 leagues. Data from other seasons is not available on the official LaLiga website.
+
+# Contributors
+  - Loïque Darios
+  - Harold Rajaonarison
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
